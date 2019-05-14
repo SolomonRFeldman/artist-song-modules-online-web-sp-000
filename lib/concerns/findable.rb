@@ -1,1 +1,1 @@
-module Finable
+module Findable
